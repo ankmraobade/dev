@@ -1,0 +1,439 @@
+
+ https://www.javatpoint.com/maven-tutorial 
+ https://www.guru99.com/maven-tutorial.html
+ https://www.tutorialspoint.com/maven/maven_pom.htm
+ http://tutorials.jenkov.com/maven/maven-tutorial.html
+ https://www.baeldung.com/maven
+=============================================================================================================
+					       
+					**** Apache Maven ******
+
+  
+ What is Maven?
+
+ Maven is an build automation and management tool developed by Apache Software Foundation. It was initially  released   on 13 July 2004. In Yiddish language the meaning of Maven is "accumulator of knowledge".
+ 
+ It is written in Java Language and used to build and manage projects written in C#, Ruby, Scala, and other    languages. It allows the developer to create projects using Project Object Model and plugins.
+
+ It helps to build projects, dependency, and documentation. Its development process is very similar to  ANT.
+ How  ever, it is much advanced than ANT.
+
+ Maven is also able to build any number of projects into desired output such as jar, war, metadata.
+
+
+ Maven is a powerful build tool for Java software projects. Actually, you can build software
+ projects using other languages too, but Maven is developed in Java, and is thus historically used more for     Java projects.
+
+  What is it?
+  -----------
+
+  Maven is Build Automation Tool, a software project management and comprehension tool. Based on
+  the concept of a Project Object Model (POM), Maven can manage a project's
+  build, reporting and documentation from a central piece of information.
+
+  Documentation
+  -------------
+
+  The most up-to-date documentation can be found at https://maven.apache.org/.
+
+  Release Notes
+  -------------
+
+  The full list of changes can be found at https://maven.apache.org/docs/history.html.
+
+  System Requirements
+  -------------------
+
+  JDK:
+    1.7 or above (this is to execute Maven - it still allows you to build against 1.3
+    and prior JDK's).
+  Memory:
+    No minimum requirement.
+  Disk:
+    Approximately 10MB is required for the Maven installation itself. In addition to
+    that, additional disk space will be used for your local Maven repository. The size
+    of your local repository will vary depending on usage but expect at least 500MB.
+  Operating System:
+    Windows:
+      Windows 2000 or above.
+    Unix based systems (Linux, Solaris and Mac OS X) and others:
+      No minimum requirement.
+
+  Installing Maven
+  ----------------
+
+  1) Unpack the archive where you would like to store the binaries, e.g.:
+
+    Unix-based operating systems (Linux, Solaris and Mac OS X)
+      tar zxvf apache-maven-3.x.y.tar.gz
+    Windows
+      unzip apache-maven-3.x.y.zip
+
+  2) A directory called "apache-maven-3.x.y" will be created.
+
+  3) Add the bin directory to your PATH, e.g.:
+
+    Unix-based operating systems (Linux, Solaris and Mac OS X)
+      export PATH=/usr/local/apache-maven-3.x.y/bin:$PATH
+    Windows
+      set PATH="c:\program files\apache-maven-3.x.y\bin";%PATH%
+
+  4) Make sure JAVA_HOME is set to the location of your JDK
+
+  5) Run "mvn --version" to verify that it is correctly installed.
+
+  For complete documentation, see https://maven.apache.org/download.html#Installation
+
+  Licensing
+  ---------
+
+  Please see the file called LICENSE.
+
+  Maven URLS
+  ----------
+
+  Home Page:          https://maven.apache.org/
+  Downloads:          https://maven.apache.org/download.html
+  Release Notes:      https://maven.apache.org/docs/history.html
+  Mailing Lists:      https://maven.apache.org/mail-lists.html
+  Source Code:        https://gitbox.apache.org/repos/asf/maven.git
+  Issue Tracking:     https://issues.apache.org/jira/browse/MNG
+  Wiki:               https://cwiki.apache.org/confluence/display/MAVEN/
+  Available Plugins:  https://maven.apache.org/plugins/
+
+
+---------------------------------------------------------------------------------------------------------------
+POM:POM stands for Project Object Model.
+
+The pom.xml file contains information of project and configuration information for the maven to build the project such as dependencies, build directory, source directory, test source directory, plugin, goals etc.
+
+Maven reads the pom.xml file, then executes the goal.
+
+Before maven 2, it was named as project.xml file. But, since maven 2 (also in maven 3), it is renamed as pom.xml.
+
+
+ It is fundamental unit of work in Maven. It is an XML file that resides in the base directory of the project as pom.xml.
+
+The POM contains information about the project and various configuration detail used by Maven to build the project(s).
+
+POM also contains the goals and plugins. While executing a task or goal, Maven looks for the POM in the current directory. It reads the POM, gets the needed configuration information, and then executes the goal. Some of the configuration that can be specified in the POM are following -
+
+-project dependencies
+-plugins
+-goals
+-build profiles
+-project version
+-developers
+-mailing list
+POM Example:
+<project xmlns = "http://maven.apache.org/POM/4.0.0"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation = "http://maven.apache.org/POM/4.0.0
+   http://maven.apache.org/xsd/maven-4.0.0.xsd">
+   <modelVersion>4.0.0</modelVersion>
+
+   <groupId>com.companyname.project-group</groupId>
+   <artifactId>project</artifactId>
+   <version>1.0</version>
+</project>
+
+It should be noted that there should be a single POM file for each project.
+
+All POM files require the project element and three mandatory fields: groupId, artifactId, version.
+
+Projects notation in repository is groupId:artifactId:version.
+
+
+
+
+
+===============================================================================================================
+
+pre-requisities:
+---------------
+   java    ---  yum -y install java-1.8.0-openjdk
+   
+   javac   --- yum -y install java-1.8.0-openjdk-devel
+
+maven uses pom.xml(project object modules) to define the project and it's dependencies. it will help to build the structure of the project,associate the files and help to build the application.
+
+Q)how to download and install maven?
+ 1)go to maven site , and download .tar.gz file
+ 2)extract the file (tar xvfz zpzxhe-mzven-xxx.tar.gz -C /opt/)
+ 3)configure it for a user 
+   M2_HOME=/opt/apache-maven-xxx
+   PATH=$PATH:$M2_HOME/bin
+  configure on command line and make them permanent so place in user home_dir ~/user/.bash_profile
+ 4)mvn --version
+  
+maven commands:
+---------------
+
+1)mvn archetype:generate  -- it will create a project structure
+2)mvn validate    -- it will validate project structure
+3)mvn compile     -- it will convert .java files into .class files
+4)mvn test        -- it will test .class files
+5)mvn package     -- it will help to create .jar,.war or .ear
+6)mvn install     -- it will install the package locally
+7)mvn deploy      -- it will install package remotely.
+
+
+create a .jar file using maven:
+-------------------------------
+1)mvn archetype:generate
+
+  project number :
+  group id       : unique project name (technical adda)
+  artifact id    : out put file name (simplejar.jar)
+  packaage id    : same as group id
+  version        : 1.0-SNAPSHOT
+2)mvn validate
+3)mvn compile
+4)mvn test 
+5)mvn package
+
+To see the content in the .jar file  
+
+ jar -tvf target/simplejar-1.0-SNAPSHOT.jar
+ 
+ java -cp target/simplejar-1.0-SNAPSHOT.jar technicaladda.App
+
+
+
+
+
+==============================================================================================================
+How can Maven benefit my development process?
+
+Maven helps the developer to create a java-based project more easily. Accessibility of new feature created or added in Maven can be easily added to a project in Maven configuration. It increases the performance of project and building process.
+
+The main feature of Maven is that it can download the project dependency libraries automatically.
+
+Below are the examples of some popular IDEs supporting development with Maven:
+
+Eclipse
+IntelliJ IDEA
+JBuilder
+NetBeans
+MyEclipse
+Processes which can manage using maven:
+Builds
+Documentation
+Reporting
+Dependencies
+SCMs
+Releases
+Distribution
+mailing list
+Maven Architecture
+Maven Architecture includes plugin jar, code file etc.
+
+
+How to use Maven
+
+To configure the Maven, you need to use Project Object Model, which is stored in a pom.xml-file.
+POM includes all the configuration setting related to Maven. Plugins can be configured and edit in the <plugins> tag of a pom.xml file. And developer can use any plugin without much detail of each plugin.
+When user start working on Maven, it provides default setting of configuration, so the user does not need to add every configuration in pom.xml
+
+Steps/process involved in building the project:
+Add / Write the code for application creation and process that into source code repository
+Edit configuration / pom.XML / plugin details
+Build the application
+Save the build process output as WAR or EAR file to a local location or server
+Get the file from local location or server and deploy the file to the production site or
+client site Updated the application document with date and updated version number of the application
+create and generate a report as per the application or requirement.
+
+Summary:
+Maven is an automation and management tool.
+It is written in Java Language and used to build and manage projects written in C#, Ruby, Scala, and other languages.
+Maven helps the developer to create a java-based project more easily.
+To configure the Maven, you need to use Project Object Model, which is stored in a pom.xml-file.
+
+
+
+=============================================================================================================
+maven installation:
+
+Introduction
+Apache Maven is a free and open source project management tool used for Java projects. You can easily manage a project's build, reporting, and documentation from a central piece of information using Apache Maven. Apache Maven provides a complete framework to automate the project's build infrastructure.
+
+In this tutorial, you will learn how to install Apache Maven on Ubuntu 16.04.
+
+Prerequisites
+A newly deployed Vultr Ubuntu 16.04 server.
+A non-root user with sudo privileges created on your server.
+Step 1: Update your server
+First, update your system to the latest stable version by running the following command:
+
+sudo apt-get update -y
+sudo apt-get upgrade -y
+Step 2: Install Java
+Apache Maven requires Java to be installed on your server. By default, Java is not available in Ubuntu's repository. Add the Oracle Java PPA to Apt with the following command:
+
+sudo add-apt-repository ppa:webupd8team/java
+Next, update your Apt package database with the following command:
+
+sudo apt-get update -y
+Install the latest stable version of Oracle Java 8.
+
+sudo apt-get install oracle-java8-installer
+Verify the Java version by running the following command:
+
+java -version
+Output:
+
+java version "1.8.0_91"
+Java(TM) SE Runtime Environment (build 1.8.0_91-b14)
+Java HotSpot(TM) 64-Bit Server VM (build 25.91-b14, mixed mode)
+Step 3: Install Apache Maven
+You can download the latest stable version of Apache Maven from its official website, otherwise you can download it directly with the following command:
+
+cd /opt/
+wget http://www-eu.apache.org/dist/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.tar.gz
+Once the download has completed, extract the downloaded archive.
+
+sudo tar -xvzf apache-maven-3.3.9-bin.tar.gz
+Next, rename the extracted directory.
+---------------------------------------------------------------------------------------------
+sudo mv apache-maven-3.3.9 maven 
+
+Step 4: Setup environment variables
+
+Next, you will need to setup the environment variables such as M2_HOME, M2, MAVEN_OPTS, and PATH. You can do this by creating a mavenenv.sh file inside of the /etc/profile.d/ directory.
+
+sudo nano /etc/profile.d/mavenenv.sh
+Add the following lines:
+
+export M2_HOME=/opt/maven
+export PATH=${M2_HOME}/bin:${PATH}
+Save and close the file, update its permissions, then load the environment variables with the following command:
+
+sudo chmod +x /etc/profile.d/mavenenv.sh
+sudo source /etc/profile.d/mavenenv.sh
+Step 5: Verify installation
+Once everything has been successfully configured, check the version of the Apache Maven.
+
+mvn --version
+You should see the following output:
+
+Apache Maven 3.3.9 (bb52d8502b132ec0a5a3f4c09453c07478323dc5; 2015-11-10T22:11:47+05:30)
+Maven home: /opt/maven
+Java version: 1.8.0_101, vendor: Oracle Corporation
+Java home: /usr/lib/jvm/java-8-oracle/jre
+Default locale: en_US, platform encoding: ANSI_X3.4-1968
+OS name: "linux", version: "3.13.0-32-generic", arch: "amd64", family: "unix"
+-------------------------------------------------------------------------------------------------------
+how to download the maven:
+go to below project : https://maven.apache.org/download.cgi
+
+#wget http://mirrors.wuchna.com/apachemirror/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+
+# ls -a
+# vi .profile
+export JAVA_HOME="/opt/jdk1.8.0_191"
+export PATH=$JAVA_HOME/bin:$PATH
+
+export CATALINA_HOME="/opt/apache-tomcat-9.0.13"
+export PATH=$CATALINA_HOME/bin:$PATH
+
+export ANT_HOME="/opt/apache-ant-1.10.5"
+export PATH=$ANT_HOME/bin:$PATH
+
+export M2_HOME="/opt/apache-maven-3.6.0"
+export PATH=$M2_HOME/bin:$PATH
+
+# source .profile
+# apt-get install git-core -y
+# java -version
+# ant -version
+# mvn --version
+# echo $CATALINA_HOME
+# git --version
+# netstat -lntp
+# startup.sh
+# netstat -lntp
+#cd
+# git clone https://github.com/sathyadevops/mvnproj.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

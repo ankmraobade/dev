@@ -1,0 +1,1047 @@
+======================================================================
+Mindpool Managment Solutions Pvt.Ltd
+
+We are hiring for below position for NPCI
+
+Role: DevOPs Engineer
+Location : Hyderabad
+Salary: 8 LPA
+
+JOB DESCRIPTION - 
+1.Builds automated deployments using configuration management technology.
+2. Deploys new modules, upgrades and fixes to the production environment. 
+3. Documents and completes knowledge transfer to production support. 
+4. Works with Release Management to ensure modules are production ready. 
+5. Creates release notes, deployment plans, etc. 
+6. Verifies the functionality of components and services and ensures deployment meets client's expectations
+7. Proficient in leveraging CI and CD to automate testing and deployment.
+8. Experience with automation/configuration management using either Puppet, Chef or an equivalent
+9. Ability to use a wide variety of open source technologies and cloud services 
+10. Strong experience with SQL and MySQL 
+11. Experience working at least one of the following language (NodeJS, Python, Perl and/or Ruby)
+12. Knowledge of best practices and IT operations in an always-up, always-available service
+
+
+Thanks & Regard
+Arati Mhatre
+HR Recruiter
+
+
+============================================================================================================
+Greetings..!!!
+One of our esteemed clients is looking for Devops Engineers
+Please find the Job Descriptions for the same.
+Job Description:
+Skill set:
+Primary:Devops (Rally, GIT, Jenkins, Nexus, uDeploy, Sonar, Fortify & Confluence ,GIT, TFS, Jenkins, ), Ansible,AWS 
+Experience: 5 to 8 Yrs
+Work Location: Hyderabad
+If you feel your profile is suitably equipped with above mentioned skills/ criteria then revert with your updated CV and below details at Sucharitha.k@careernetwork.in
+Details:-
+Full Name:
+DOB:
+PAN Card:
+Current employer:
+Total experience:
+Relevant exp :
+Current location:
+Preferred location:
+Current CTC:
+Expected CTC:
+Notice period:
+IMMEDIATE JOINERS would be preferred.
+Please help us by forwarding this mail to your friends or colleagues who would also be interested with this current Requirement. If already received this mail then please ignore.
+--
+Best Regards,
+Sucharitha.K
+Career Network
+www.careernetwork.in
+"g r o w i n g t o g e t h e r. . ."
+Stay Connected with us!!
+
+
+
+=============================================================================================================
+Anram Solutions Private Limited 
+
+Greetings from Anram Solutions...
+
+If interested please share updated profile to bhuvaneswari.k@anramsolutions.com
+
+We are having urgent openings for Cloud/Devops Engineer
+
+Position : Cloud/Devops Engineer
+
+Experience : 4 -8 years
+
+Location : Hyderabad
+
+Position:Permanent
+
+Role Overview:
+:           
+
+The In-house Cloud\Devops engineer will be working on
+multiple projects in a fast paced enviroment. They will have an
+excellent level of understanding of Azure/AWS technologies
+and be able to communicate this to non technical audiences.
+Be able to balance the introduction of new technology against
+business timescales.  Be able to train and mentor others.
+
+Skills and Requirement:
+Strong knowledge on Multi-channel ecommerce.
+Able to communicate with technical and non-technical stakeholders
+Able to translate a customers requirement into best practice hybrid cloud
+solutions
+Able to influence design decisions using deep technical knowledge.
+Ability to analyze, design and construct infrastructure in the cloud
+Use Azure and AWS best practices for deploying infrastructure.
+Understanding of Infrastructure as code
+Strong knowledge of setup considerations for Middleware (RTO, PTO)
+Strong experience with pre-configured stacks
+Strong understanding of networks hardware and the equivalent technology in
+the cloud
+Strong experience of cloud/data centre storage options
+Experience of working in an Agile\Devops environment
+Design and implement business continuity and disaster recovery
+
+Technical Experience:
+Experience in Azure and AWS
+Experienced in designing and developing continuous deployment pipelines,
+integrating Team City, Git , Jenkins and Chef across geographically separated
+hosting zones in AWS.
+Experience working in both DevOps and Cloud migration
+Experience Managing the cloud and on premise servers and infrastructure for
+the Digital team
+Strong experience with configuring ETL tools
+Manage Data collection using framework and java applications.
+Using AWS/Azure Security best practices for spinning servers and
+architecting cloud services.
+Building/designing and spinning up new Windows, Linux environments for
+application using the AWS /Azure best practices.
+Conduct and Cordinate the penetration testing
+Creating a build pipeline and deploying applications using Elastic Beanstalk
+and auto scaling.
+Set up the FTP and NFS servers on cloud for Ecommerce deployment using
+AMIs
+
+Conduct systems design, feasibility and cost studies and recommend cost-
+effective cloud solutions.
+Administer discovery, user testing and beta programs to garner feedback prior
+to each major release.
+Advise software development teams on architecting and designing web
+interfaces and infrastructures that
+Configure AWS Network Address Translation (NAT) for outbound business to
+business (B2B) web services
+Configured Load Balancer and Traffic Manager for high availability and
+disaster recovery
+Design and build cloud service models including Infrastructure-as- a-Service,
+Platform-as- a-Service
+Design the Infrastructure using Security and network best practices.
+Implement AWS Direct Connect and VPN gateway services.
+Work with server, network, database, application and database teams to audit
+infrastructure, design, build,
+migrating and testing hybrid solutions
+Able to deploy cloud infrastructure solutions for web, enterprise, database,
+business continuity, disaster recovery and
+Deployment of Nginix server as reverse proxy solution in the environment
+Deploying and creating IIS windows Infrastructure
+Deploy high availability Databases (MS SQL,MySQL)
+Configuring API Gateways using Best Practice
+
+Thanks&Regards,
+Bhuvaneswari 
+Talent Acquisition Consultant
+Anram Solutions Pvt Ltd,
+
+# 33/B, Banjara Hills, Road No-2, Hyderabad-500034
+Phone:7995026157 | Desk : 040-4004440
+E-mail: bhuvaneswari.k@anramsolutions.com | www.anramsolutions.com
+
+
+
+===============================================================================================================
+Experis IT Private Limited
+hi
+Greetings fo r the Day !!!
+About Us,
+Experis IT India (Formerly WDC) is part of Manpower Group (NYSE: MAN), the world leader in innovative workforce solutions. With over 60 years of experience, our $22 billion compan y creates unique value through a comprehensive suite of innovative solutions that help clients win in the Human Age. These solutions cover an entire range of talent-driven needs from recruitment and assessment, training and development, and career management, to outsourcing and workforce consulting. Manpower Group maintains the world's largest and industry-leading network of 3,600 offices in 83 countries and territories, generating a dynamic mix of an unmatched global footprint with valuable insight and local expertise to meet the needs of its 400,000 clients per year, across all industry sectors, small and medium-sized enterprises, local, multinational and global companies. By connecting our deep un derstanding of human potential to the ambitions of clients, Manpower Group helps the organizations and individuals we serve achieve more than they imagined because their success leads to our success. And by creating these powerful connections, we create power that drives organizations forward, accelerates personal success and builds more sustainable communities. We help power the world of work. The Manpower Group suite of solutions is offered through Manpower Group Solutions,
+Manpower, Experis and Right Management.
+Manpower Group is the most trusted brand in the industry, and was once again the only company in our industry to be named to the Ethisphere Institute's 2012 World's Most Ethical Companies list for our proven commitment to ethical business practices, including an outstanding commitment to ethical leadership, co mpliance practices and corporate social responsibility.
+Joining Location: Pune 
+Primary Skill: Devops  Developer
+Experience Range - 5+
+Pan number:
+Name:
+Middle Name:
+Last Name:
+Total Experience:
+Relevant Experience:
+Current Employer :
+Current CTC:
+Expected CTC:
+Notice Period:
+Date Of Birth:
+Passport No( If you have any ) :
+Please do not reply to the mail if you have already been interviewed by the client or your profile has already been processed to the client.
+Whil e replying don't change the subject of the mail
+
+
+Thanks & Regards 
+sudha 
+==========================================================================================================
+
+
+
+
+
+===============================================================================================================
+Greetings from GCS (Gemini Consulting & Services)! 
+Hope this mail reaches you in Great health & High spirits. 
+
+This is Noor from GCS (SAP & IT Practice), We came across your profile and found it suitable for the position of "Devopsr" for Vitech systems
+
+
+Kindly find below the Job & Company details for your reference. 
+
+Job location: Hyderabad 
+
+Role: Devops engineer
+
+Client: Vitech systems (Permanent)
+
+JD:
+Hands-on working experience of DevOps tools like AWS,GIT, SVN, Maven, Ant, Jenkins, Artifactory, SonarQube, JIRA, Bamboo, Ansible
+     Sound knowledge on System Administration, Web/App Administration (especially with WebSphere).
+     Strong interpersonal skills to coordinate with other organizations across the business while managing customer expectations.
+    Excellent written and verbal communication skills.
+       Working knowledge of container solutions (Docker) and orchestration a plus.
+     Scripting skills like Shell scripting, Perl, Ruby, JavaScript or Python a plus.
+
+
+If interested kindly send across your updated CV with the below details ASAP for further proceedings. 
+
+
+Full Name (Including Sur Name): 
+
+Date of Birth: 
+
+Marital Status: 
+
+Current Location: 
+
+Current Organization: 
+
+Payroll comapny: 
+
+Total Experience: 
+
+Relevant Experience: 
+
+Current CTC: 
+
+Expected CTC: 
+
+Notice Period/Lead time to join: 
+
+How many Implementations/Projects: 
+
+Reason for job change: 
+
+Skype Id: 
+
+Available for Skype Interview this week?
+
+Any offer in hand?if yes then reason for other offer?
+
+Are you ready to relocate to Hyderabad?
+
+
+Working with Best Friends is always Fun!!! So bring your friend to join u @ Work!! You can always refer your friends/colleagues. 
+
+Note: If your profile is not suitable for the above job description, then we are sorry to spam your inbox and kindly ignore this mail. 
+
+Thanks & Regards
+
+Noor Mohamed
+
+Sr.HR Executive
+
+USA l INDIA I MENA I UK
+
+mmohamed@gemini-us.com I www.gemini-us.com
+
+(India) 040 4125 9931
+===============================================================================================================
+Terrabit Consulting Private Limited
+
+Greetings from Terrabit Consulting!!!
+Terrabit Consulting is part of Terrabit Networks Group of companies, with its headquarter founded in Singapore in 2006. Our vision is to be the customers best business partner for IT solutions and services globally and our mission is to achieve the business objectives with Integrity and Fairness.
+
+SKILL: DevOps Engineer
+
+JD Experience and complete end to end knowledge in developing and maintaining CI/CD process for enterprise applications using tools like Git, Jenkins/Bamboo, Maven, Gradle, etc
+Experience in Build&Deployment and Release process.
+Experience with configuration management tools such as Ansible, Chef, Fabric, Puppet or SaltStack
+Expertise in Linux System Admin and Bash Scripting (Shell, Puppet, Chef, Ansible, Python, Ruby, etc.)
+Hands-on experience in build and administer VMs and Containers using tools such as Docker, Vagrant, Kubernetes
+Experience in various AWS cloud services. 
+
+EXP:3-10 Years
+
+Notice Period - Less than 20 Days.
+LOCATION: Chennai
+
+NOTE: Should NOT be more than Total 24 Months of Gap from 10th standard to till date.
+If shortlisted, you need to submit (if less than 5 years experience) and 5 years (if more than 5 years experience) SALARY CREDITED BANK STATEMENT.
+If interested kindly send us your latest updated profile to pranitha.r@terrabit-consulting.com with a detailed description of all projects that you had been part of.
+Kindly Refer/ Forward this mail to your friends/ colleagues who are looking for job opportunity.
+
+
+Best Regards,
+Pranitha
+Mobile: +91- 9513404054
+Pranitha.r@terrabit-consulting.com
+
+
+==============================================================================================================
+
+Greetings from Talent21..!!
+This is regarding job opening with Epsilon.
+Job Description:
+Experience: 5-13Years
+Job Location: Bangalore
+Interview Location:Hyderabad
+Notice Period: Immediate to 60 days
+JD:
+• Minimum of 4 year commercial and hands-on development experience on AWS
+• Experience working on enterprise application architecture
+• Knowledge on System Infrastructure and comfortable providing solutions on Infra
+• Experience working with huge amount of data on AWS and providing solutions
+• Experience working on AWS services IaaS, PaaS
+• Knowledge on Cloud security, IAM
+• Experience working on AWS SDK python/java
+• Experience working with AWS CloudFormation scripts for automation
+• Experience working with scripting languages like python (Boto3)
+• Experience working with automation tool like Ansible
+• Experience working with version control system - GITHUB
+• Experience working on Continuous Integration/Continuous Deliver using Jenkins
+• Experience as devops or automation engineer
+• Knowledge on enterprise design patterns and cloud design patterns
+• Knowledge on Cloud fundamentals like autoscaling, elasticity, serverless
+• Experience working on On-premise to AWS cloud migration projects
+• Knowledge on Agile methodology and required tools like Jira, confluence etc.
+Interview Date: 15th Dec 18, Saturday
+Mode of Interview: Face to Face in Hyderabad
+Shortlisted Candidates must be available to F2F on 15th December 2018
+If interested request you to share your updated resume with the below mentioned details to k.prathyusha@talent21.in
+Total Exp:
+Relevant Exp:
+Current CTC:
+Expected CTC:
+Notice Period:
+Availability for Interview:
+
+
+Thanks & Regards:
+K Prathyusha
+Mobile: 91- 9581687561
+Email : k.prathyusha@talent21.in
+Spreading Prosperity
+===============================================================================================================
+Locuz Enterprise Solutions ltd 
+
+You will also responsible for designing and deliver DevOps solutions to Cloud & OnPremise for clients.
+Design & Building entire DevOps workflow for Customer. Building CI/CD Pipelines, writing infrastructure automation code, and integrating various DevOps tools.
+Responsible to build a DevOps team
+
+What we are looking for:
+
+Strong background in Linux administration (Redhat/CentOS), knowledge in Virtualization & Windows is a plus
+Strong knowledge in AWS DevOps Tools - Code Pipeline, Code Deploy, Codestar, Jenkins, GitLab/GitHub and other popular CI, CD, Release & Deploy tools
+Strong knowledge in web application development using Python, PHP, Java Script, CSS, HTML, Bootstrap
+Knowledge on Database, Preferable Postgresql 
+Ability to use a wide variety of open source technologies
+Docker container administration, Optimisation
+Cloud automation Preferable AWS, Azure
+Experience with automation/configuration management using either Puppet, Ansible or an equivalent
+A working understanding of scripting: Bash, json, ymal
+Good understanding in DevOps, Continuous Integration, Continuous Deployment
+Knowledge in Jenkins, Gitlab, VSTS
+Self learner , individual contributor and work in smaller teams
+Knowledge on SCM , Git version Control tools
+Basic knowledge of networking
+
+
+Role:	 	Outside Consultant
+Role Category:	 	Other
+Industry Type:	 	IT-Hardware & Networking
+Functional Area:	 	IT Software - Other
+Keywords:	 	bootstrap,php,devops,jenkins,aws code,aws codestar,cwi codestar,scripting,puppet,ansible,linux rhce,python,javascript,gitlab,codestar,aws codedeploy
+
+===============================================================================================================
+Spectra Consulting
+Dear Candidate, 
+
+We have an urgent requirement for the position of "Core AWS Automation Engineer (Devops)" with Leading IT Company for Hyderabad location. 
+
+JD : 
+Automate using Cloud formation template creation
+Extensive coding/automation experience using AWS APIs
+Work on Elasticity, Monitoring, Performance tuning
+Capacity planning and forecasting
+In a nutshell, SRE role for Big Data Platform
+Deep systems engineering knowledge (Nice to have)
+
+
+Interested candidates mail me resume with following details : 
+Current CTC : 
+Expected CTC : 
+Notice Period : 
+Experience : 
+Current Location : 
+
+
+Thanks & Regards
+Shalini Sharma
+?(+91) 8743006350
+eMail: shalini@spectraconsulting.in
+Web: http://www.spectraconsulting.in
+============================================================================================================
+TECH ORBIT SOFT SYSTEMS PVT. LTD 
+
+hi Folks,HI,
+GREETINGS FROM TECHORBIT !!!
+WE HAVE AN IMMEDIATE OPENINGS FOR ONE OF THE MNC IN HYD LOCATION AS A  Python DEVELOPER
+LOCATION: HYD
+EXP: 4+YRS
+NP: IMMEDIATE TO 15 DAYS
+MOH:C2H
+ IF YOU ARE INTERESTED PLEASE SHARE YOUR UPDATED RESUME TO kavitha@techorbit.com
+
+===============================================================================================================
+http://www.mca.gov.in/MinistryV2/acquiredsc.html
+==============================================================================================================
+Pi DATACENTERS Pvt Ltd. 
+
+Position : AWS Solution Architect 
+Location:  Amaravati
+Experience: 2.5+ years 
+Desired Skills:
+•    Strong knowledge on Lambda, API gateway, Dynamo DB, RDS, Cloud Formation, IAM Policies. Elastic bean stalk, elastic container services, RDS, SQS, S3 - Object management /Life Cycle /Replication
+•    Candidate should be able to write custom IAM policies. 
+•    Strong understanding of Data Pipeline and Code star, code build, code deploy, Code pipeline, Code commit. 
+•    Hands on experience on tools for Server migration, DR and Backup on AWS
+•    Solution Architect Certification is a must. 
+•    Very strong understanding of micro services, Devops and Jenkins, Chef and puppet.  
+
+
+===============================================================================================================
+Montek Tech Services Pvt Ltd
+Hello,
+
+We have an Immediate opening for DevOps Chef with Ruby Professionals @ Pune
+
+Job Description:   
+
+Job Responsibilities
+Develop Chef recipes for Linux, AIX and Windows platform
+
+Key Skills
+Must
+· Chef, Ruby, Linux, AIX, GIT
+Good to Have
+UCD, Jenkins, Docker, RSpec, Server Specs,
+
+Job Location - Pune  
+
+Request you to kindly go through the details and if you are interested please send your updated profile with your Current CTC, Expected CTC & Notice Period.        
+
+Kindly mention on mail about on contract/permanent payroll.        
+
+Waiting for your quick respond, we would appreciate if you ca n share some references for the same.
+
+Regards,
+Deepika
+
+==============================================================================================================
+
+KRG Technologies India Pvt Ltd
+
+Greetings From KRG Technologies!!!!!
+
+Opening for Devopes with Jenkins and maven.
+Candidate Should have Experience at Jenkins And Maven
+Location: Hyderabad
+Experience: 4-10yrs
+Drive; Sunday(9th Dec)-Hyderabad
+
+If u are Interested please Send your Resume to rajagopal@krgtech.com
+
+Thanks & Regards
+Raja Gopal.M
+IT Recruiter
+KRG Technologies india Pvt Ltd.,
+Round Table House India, 69, Nungambakkam High Road, chn-600 034
+www.krgtech.com
+PH: +91 44 61116136
+Mobile:7904149970
+===============================================================================================================
+R Systems International Ltd
+
+With reference to your resume on one of the job portals, We take this opportunity to introduce R Systems Internati onal Ltd (www.rsystems.com), a PCMM Level 5 and CMMI Level 5 MNC, as a leading global provider of IT solutions. In India we are headquartered in Noida, with development centers in Pune and Chennai. We also have our offices in US, Eur ope, Singapore & Japan.
+R systems W on the Rajiv G andhi National Quality Award - 2011 in the "Large Scale Service Industry" category
+R Systems has been Ranked as fifth "Best IT Employer" in DataQuest - CMR Best Employer Survey 2012
+Job Description for Devops Engineer :
+1. Know who to do Cloud Infrastructure Management in Microsoft Technologies.
+2. Should know designing, develop and testing in virtual environments (Hyper-V, Google Cloud Platform)
+3. Should know how to automation Cloud Management Infrastructure
+4. Should know Microsoft Test Manager
+5. Should have Selenium experience in Team Foundation Server
+6. Good Experience with Linux and Shell Scripting Languages like Bash and PowerShell for Windows.
+7. Should be able to do containerization and container orchestration with Docker or Kubernetes
+8. Should know how to make Build Pipelines. CI/CD
+Skills : Devops, Ansible,MS Build
+Position : Devops Engineer / Tech Lead
+Industry Type : IT-Software/ Software Services
+Experience : 4 - 7 Years
+Location : Noida
+Kindly send us your resume in case you are interested in the opportunity along with the following details.
+1. Name :
+2.Total Experience:
+3. Relevant Experience in Devops:
+4. Relevant Experience in Ansible:
+5. Relevant Experience in Powershell:
+6. Current CTC :
+7. Exp CTC:
+8. Notice Period:
+9. Ready to join in(Days) :
+
+Regards
+Siddarth Thakur
+Email: Siddarth.thakur@r systems.com
+Rsystems International
+C40 Sector 59, Noida
+
+===============================================================================================================
+ION Trading India Private Limited
+
+Dear Candidate,
+We are hiring best brains in the industry!!
+We have a very challenging position for DevOps Engineer with ION Trading
+Experience: 2 - 7 yrs.
+Education :
+B.E. /B.Tech/ MCA / MSc /M.Tech
+
+Location: Noida
+About ION Trading:
+We're pioneers. We do things the right way. We make a positive difference.
+We are visionary innovators in automation technology. Automation excites us. We use it to simplify complex processes, streamline businesses and give competitive advantage.
+Our products help leading organizations around the world do more, better and simpler than before.
+We bring to life the technology that underpins the fixed income, currency and commodities markets, as well as corporate treasury:
+More than 30% of world's largest companies use our technology solutions to manage their cash, risk, or commodities.
+Over 100 of the world's leading banks use our electronic trading platform.
+Our offices span the globe and we continue to grow in strength and size. Our customers are our partners. It is these longstanding strategic relationships that drive us forward. Our people are vital to our success and if you share our pioneering vision and quest for excellence, you will shine.
+We are looking for talented DevOps Engineers. As new members of our team, you will have to take care of software deployments from development to production in a reliable and efficient manner.
+Key responsibilities:
+Within the Research and Development department, your main role is to work on the automation pipeline for deploying, testing, operating and monitoring our systems:
+You will take care of complex software installations and configuration in RnD, Quality Assurance, Demo and clients environments
+You will contribute on the integration of software developed by different teams, and put in place the tools to deploy it on different environments (development, test, demo and client)
+You will help on creating and managing effective continuous integration to ensure that the solution is working, detect incompatibilities between different components.
+You will write documentation and train users on software installation
+
+Required skills:
+Strong working knowledge of Linux (RedHat preferred) and Windows operating systems
+Database Administration (Oracle 12) and/or SQL Server (2017)
+Experience with bash scripting
+Able to write code in python
+Comfortable with SQL and XML
+Familiar with source code management systems (Git and subversion)
+Experience with CI workflows and tooling (Jenkins)
+Desired skills:
+AWS (Amazon cloud)
+Experience with Docker
+Experience with configuration management tools (like Ansible)
+Knowledge of Java
+Experience with Infrastructure Monitoring Tools (for example Nagios)
+Positive and optimistic outlook, solution orientated attitude.
+Fluent in English; any other language is an advantage.
+Very strong problem-solving capabilities.
+Ability to react positively to changes in workload, targets, and plans.
+Ability to work independently as well as within a team.
+Keen interest in the worlds of software, technology
+This requirement is for our Noida Development Centre.
+Interested candidates kindly mail me your resumes with your current ctc, expected ctc and notice period.
+Priyanka Das
+Human Resources
+ION Trading India Private Limited
+Infospace, 4th, 5th, 6th Floor, Building 2,
+Block- B, Plot -2, Sector-62,
+Noida-201309
+priyanka.das@iontrading.com
+http://www.iontrading.com
+
+===============================================================================================================
+
+Ecentric Solutions Pvt. Ltd
+
+Hi All,
+Urgent Openings for DevOps Role Hyderabad Location
+Mode of Hire: Long Time Contract to Hire
+Experience: 4 to 10 Years
+Notice Period: Immediate or Max 20 Days
+Work Location: Hyderabad Location
+Job Description for your Reference:
+
+1.	DevOps tools:-	NewRelic, Chef, Jenkins, Puppet. (exp. On NewRelic/Chef would be preferred) 
+2.	Code and deployment:-	VSTS, Continuous Integration/Deployment/Testing (CI/CD/CT) 
+3.	Should have knowledge of Scrum/Agile
+
+Name: 
+Alternative Number:
+Pan No: 
+Current ctc : 
+Expected ctc:
+Notice period:
+Offers (Yes/No): 
+Interview available @ Week Days: Yes/No
+ If interested inbox your profiles to: nagasudhir.b@ecentrichr.com 
+Or 
+Else you can reach me on M: +91-9640304342
+
+
+Thanks & Regards,
+Nagasudhir.B
+eCentricHR (CMMi Level–V)
+Alekhya Swarna, Plot No – 409, Sarojini Naidu Nagar,
+Road No – 9, Kakatiya Hills,
+Hyderabad – 500033.
+Landline no: 040 – 46446009
+Email: nagasudhir.b@ecentrichr.com| URL: www.ecentrichr.com
+
+
+==============================================================================================================
+Smallpage India (Staffing) Private Limited
+
+Greetings from SmallPage
+
+We have openings in our client  |ADP (www.adp.com)| Hyderabad :: I’m sending you the job description along with the company details please go through it.
+
+ADP(Automatic Data Processing Inc) – www.adp.com – A Fortune9 Company
+
+ABOUT US:
+
+What began as a spark of an idea in 1949, grew to ignite an entire industry of outsourcing services, and changed the way companies do business. This is our story, which began over six decades ago, and continues into the future, fueled by insight, innovation, service and success. In 2014, ADP celebrated 65 years in business, served 620,000 customers in 125 countries, and counted 15 years of having cloud-based software. – 
+
+See more at: http://www.adp.com/who-we-are/history
+ 
+Job type       : It’s a permanent position with ADP
+
+Job Location : Hyderabad 
+ 
+JOB PROFILE : Devops, Aws with Windows Professional with Minimum 5 To 8+years of experience
+
+Skill set : Devops + experience in any of the scripting languages , like Perl , Python or Shell scripting
+Experience with Windows Administration (2012 or 2016 version)/Configuration in an enterprise environment  MUST
+·         Experience using  CI tools  - Jenkins, TFS – MUST
+·         Experience using public cloud – AWS - MUST
+·         Knowledge of programming languages such as Python/.net – MUST
+·         Experiene with API driven architecture -  good to have
+·         Experience in supporting micorservice architecture – good to have   
+Responsibilities:
+·       work with developers and systems engineering to resolve issues related to application configuration, deployment and debugging
+·       Build and Innovate to replace large-scale manual operating processes with scripts and applications
+·       Deploy automation – CICD
+·       Develop appropriate metrics to demonstrate performance and operational efficiency. 
+·       Work Cross functionally with various team to drive amazing results
+·       Resolve problems at their root with simple and repeatbale solutions
+·       Design automated systems management solutions with self repair as the goal
+
+IF YOU ARE INTERESTED FOR THIS PARTICULAR POSITION PLEASE SEND YOUR UPDATED PROFILE WITH BELOW REQUIRED DETAILS 
+
+01.   Full  Name:
+02.   Total Experience in Devops:
+03.   Experience in Windows:
+04.   Experience in Ansible, Jenkins,TFS :
+05.   Experience in AWS:
+06.   Current Organization:
+07.   Current CTC:
+08.   Exp CTC: 
+09.   Current Location: 
+10.   Preferred Location(Hyderabad):
+11.   Notice Period: 
+12.   Contact number:
+13.   Alternate Number(mandatory):
+14.   Please mention all Education details in your resume these are the below details we required :
+
+If you are masters graduate please mention details from masters or else  if you are a graduate please mention details from graduation 
+
+a)Masters(Qualified, Pass out year & Parentage & college/university) :-
+b)Graduation(Qualified, Pass out year & Parentage & college/university) :-
+c)Intermediate(Qualified, Pass out year & Parentage & college/Board) :-
+d)SSC(Qualified, Pass out year & Parentage & School/Board) :-
+
+Requesting you to go through the job description and company URL
+ 
+References would be highly appreciated……
+---------------------------------------------------------------
+Warm Regards,
+Satish Boppana | Hr-Recruitments  
+SmallPage India pvt Ltd
+Voice: 9052779955/8499955533 
+Text : satishboppana@smallpage.in
+Hyderabad | Beside Raheja IT Park | www.smallpage.in |
+Switch off as you go|Recycle always|Save Paper - Save Trees|Go Green
+
+
+
+==============================================================================================================
+
+What you will do:
+
+You will also responsible for designing and deliver DevOps solutions to Cloud & OnPremise for clients.
+Design & Building entire DevOps workflow for Customer. Building CI/CD Pipelines, writing infrastructure automation code, and integrating various DevOps tools.
+Responsible to build a DevOps team
+
+What we are looking for:
+
+Strong background in Linux administration (Redhat/CentOS), knowledge in Virtualization & Windows is a plus
+Strong knowledge in AWS DevOps Tools - Code Pipeline, Code Deploy, Codestar, Jenkins, GitLab/GitHub and other popular CI, CD, Release & Deploy tools
+Strong knowledge in web application development using Python, PHP, Java Script, CSS, HTML, Bootstrap
+Knowledge on Database, Preferable Postgresql 
+Ability to use a wide variety of open source technologies
+Docker container administration, Optimisation
+Cloud automation Preferable AWS, Azure
+Experience with automation/configuration management using either Puppet, Ansible or an equivalent
+A working understanding of scripting: Bash, json, ymal
+Good understanding in DevOps, Continuous Integration, Continuous Deployment
+Knowledge in Jenkins, Gitlab, VSTS
+Self learner , individual contributor and work in smaller teams
+Knowledge on SCM , Git version Control tools
+Basic knowledge of networking
+
+
+Role:	 	Outside Consultant
+Role Category:	 	Other
+Industry Type:	 	IT-Hardware & Networking
+Functional Area:	 	IT Software - Other
+Keywords:	 	bootstrap,php,devops,jenkins,aws code,aws codestar,cwi codestar,scripting,puppet,ansible,linux rhce,python,javascript,gitlab,codestar,aws codedeploy
+
+
+	Locuz Enterprise Solutions ltd
+
+ennifer
+Locuz Enterprise Solutions ltd
+Locuz Enterprise Solutions Ltd. 401, Krishe Sapphire, Main Road, Madhapur , Hyderabad,Telangana,India - 500081
+
+
+==============================================================================================================
+Shell Info Technologies Private Limited
+
+Hope you are doing great!!!
+Shell Info Technologies Pvt Ltd.., a leading enterprise business and technology solutions partner for medium and large global customers, is seeking experienced professionals, who thrive on challenge and desire to make a real difference. With an environment of extraordinary innovation and unprecedented growth, this is an exciting opportunity for a self-starter who enjoys working in a quality-oriented, fast-paced, team environment.
+Note: Pls attach resume along with photograph (PAN NUmber)
+ReQ: Key Description / Responsibilities:
+Experience: 2yrs - 15 yrs
+Mode: Contract to Hire
+****************** Need resource who can join in Immediately/ 15 days******************
+Primary Skill
+WebSphere
+Secondary Skill
+Linux and bash scripting
+Work Location
+Hyderabad;
+Technical Environment
+Linux
+Key Job Description/Responsibilities
+Linux and bash scripting Java (not mandatory but an advantage) GIT Websphere knowledge would be nice, like the ability to change or lookup settings, and to stop/start jvm’s through the WebSphere console. Mainly since all of Guidewire runs on WebSphere. Terraform (Used to spin up new virtual servers) Chef (Used to configure a freshly created server) Amazon AWS S3 buckets. (Once we build the Guidewire EAR/WAR files, we store them here) PowerShell
+Please share below details if you are interested to work for this position/share it to your friends and colleagues who would be interested to apply
+1) Current CTC (LPA):
+2) Expected CTC (LPA):
+3) Notice Period:
+4) Full Name:
+5) Contact details (Best number):
+6) Current location:
+7) Preferred location:
+8) Total experience(in Years):
+9) Relevant Experience (in years):
+10) Can Join (Looking who can join Immediate/ 15 Days):
+11) Current Company:
+12) If Serving notice: Kindly mention your Last working day:
+Thanks & Regards,
+Arun Jyothi M- Sr IT Recruiter
+Shell Info Technologies Pvt Ltd.
+Direct: 040 46789940
+jyothi@shellinfotech.com | www.shellinfotech.com
+(Singapore-Malaysia-India)
+
+
+==============================================================================================================
+
+Foray Software Pvt Ltd
+
+Dear Associate,
+We have Urgent Openings for kubernetes 3+ Yrs in Our MNC Client at Hyderabad Location, If you are interested.Share Your Profile
+Exp :3+ Years
+Employer : Foray Software Pvt Ltd
+Mode of Employment: Permanent
+Work Location: Hyderabad in Our MNC Client
+Shifts: Regular
+Nature of work: kubernetes
+Notice Period: Immediate Or !5 Days Notice Period
+Company Profile: Foray is an ISO certified dynamic and rapidly growing information technology consulting and services company. With over 1800+ professionals deputed across India, our major clients include Captive IT units in India, Product Companies and IT Services firms. Please visit website for more details about company.
+Please feel free to write back should you have any questions.
+CTC is not a Constraint for right candidate
+please share your Updated profile with Below Details:
+Full Name:
+Experience:
+Current Company:
+Current CTC:
+Expected CTC:
+Notice Period:
+Current Location:
+Mobile No. : 
+
+Thanks & Regards,
+SRIKANTH SURYADEVARA
+Foray Software Pvt Ltd || 
+srikanth.suryadevara@foraysoft.com || www.foraysoft.com
+
+You are receiving this e-mail because your profile contained one or more of the following words that the recruiter searched on: " Kubernetes "
+
+
+==============================================================================================================
+CHALA TECH SOLUTIONS 
+
+Hi,
+
+We have an opportunity for Support Analyst-L3 with one of our IT client in Vijayawada.
+
+Location: Vijayawada
+
+Technical Skills:
+Linux ; Docker ; scripting languages ; PostgreSQL ; Tomcat
+L3 support / Incident management / Troubleshooting skills.
+Familiar with ITIL processes.
+
+If eligible and interested please forward your resumes with the CTC details to take it forward.
+
+Regards
+Pranitha
+
+9000625710
+
+
+
+==============================================================================================================
+C1.Bang Mahender
+
+Hi,
+
+Greetings from Adecco india,Bangalore
+
+About Adecco Group India:
+
+   The Adecco Group, Based near Zurich, Switzerland, is the largest temp staffing firm in the world, and a Fortune Global 500 company.
+
+The Adecco Group is the parent company of a large number of brands including Adecco Staffing, Euro Engineering, Modis, Spring Professional, Badenoch & Clark, Pontoon and Lee Hecht Harrison.
+
+Currently we are looking for   Devops  Consultant
+
+for MNC client
+
+Skill:  Openings for Devops  Consultant
+
+Experience:4 +yrs
+
+Interview location: Hyderabad  & Bangalore
+
+Work Location: Hyderabad
+
+Required notice period: Max 30 days only
+
+Payroll Company: Adecco Group India
+
+Required details:
+
+ 
+
+                         Pan card no:
+
+                         Total Experience:
+
+                         Relevant Experience:
+
+                         Current CTC:
+
+                         Exp Ctc:
+
+                         Current working company:
+
+                        Payroll company:
+
+                        Notice period:
+
+                       Current Location:
+
+                       Preferred Location:
+
+                       “While replying don’t change the subject line of the mail”
+
+Thanks and Regards
+
+cid:image001.png@01D42B1E.0B482E00
+
+Mahender reddy
+
+Professional Services - Staffing
+
+Adecco Group India
+
+No. 2, NAL Wind Tunnel Road,
+
+Murugeshpalya, Bangalore – 560017
+
+( +91 8039897070-Ext-6218
+
+Email -- C1.Bang.Mahender@adecco.com
+
+www.adecco.co.in
+
+ 
+==============================================================================================================
+Vipany Management Consulting Pvt Ltd
+
+DevOps, CICD ,DevOps Implementation ,VSTS, Jenkins, Azure ,DevOps, CICD
+Expertise in DevOps concepts and technologies and in-line with Chevron People, Process and Products concepts 
+Work with BUs to capture their as-is metrics and come up with an enterprise wide strategy to measure the benefits of implementing DevOps 
+Design Chevron enterprise wide DevOps Dashboard to showcase metrics for leadership to measure the success of all projects 
+Work with BUs to define custom KPIs and metrics to be captured to measure the effective of DevOps 
+Work with DevOps COE and provide support for DevOps Advisors to implement best practices for BUs 
+Work with COE teams to enable BUs in providing guidance and technical support to all relevant stakeholders 
+Support DevOps COE to create DevOps technical training decks to relevant BU stakeholders on all devOps tools, technologies and best practices in implementing devOps 
+Support DevOps COE to support in conducting DevOps 100, 101, & 102 trainings for BUs 
+
+If your interested in the above position kindly revert back with the following details to move further:
+Passport ID:
+Passport Expire date:
+
+
+Regards
+Madhu
+
+==============================================================================================================
+
+We are looking for top candidates who can quickly understand functionality, has good analytical ability & communication skills to interact in a global team environment. Candidates need to be highly motivated and committed to the deliver in time. We are looking for candidates with following technical skills.
+  
+Skill : "DevOps" Lead
+Interview Location : Hyderabad
+Job Location : Hyderabad
+Interview Date : 1st Dec'18_ Saturday
+
+JOB DESCRIPTION :
+
+Setup  and Maintain CI/CD Tool Chain on Cloud/Azure  
+Closely Work with Dev team to provision the Dev/Test environment and tools on Cloud  
+Closely Work with Customer teams to push the releases in production. 
+Setup process for application upgrades using Blue/Green Strategy  
+
+Key Skills:
+
+Expertise in CI/CD Tool Chain - Jenkins, Maven, Docker, Artifactory, Terraform, Kubernetes, OpenShift etc.
+
+
+
+=============================================================================================================
+Hi, 
+Very Good Day! 
+We are looking for Devops with 5+Years Exp for Hyderabad location.The detailed Job description is as follows: 
+
+Job Description: 
+Minimum 5+ Years of IT Experience. 
+Good Working Experience in Devops with Gerrit and Nant. 
+At least 5 to 7 years of Build and Release experience 
+Experience with Jenkins, NANT, ANT, Subversion, GIT, TFS, Bugzilla, Maven, and other open source tools 
+Have deep knowledge on the continuous integration and continuous delivery. 
+Strong Knowledge and hands on experiences on GIT, Gerrit, Linux Administration & Jenkins 
+Experience in designing, building and maintaining an automated build and release environment. 
+Experience in designing a software release process to satisfy internal audit and compliance. 
+Detail oriented, organized, thorough and strong quality control. 
+Self-driven and ready to be the leader to take on greater responsibilities. 
+
+Please let me know if you are interested with this requirement and forward your updated profile to ratna@avansys.in with these details 
+
+Current Location: 
+Relocation to Bangalore: Yes/No 
+Notice Period: __Days 
+Current CTC: 
+Expecting CTC: 
+Total IT Experience: __+ Years 
+Experience in Gerrit,Nant : __+ Years 
+
+
+Thanks & Regards, 
+Ratna 
+Avansys Software Solutions 
+ratna@avansys.in 
+
+
+==========================================================================================================
+Good Day!
+
+Blooms HR Consulting is an Executive Search firm based at Cochin. We have an urgent requirement with one of our clients’, an MNC software product co. in Cochin, who is into cloud based enterprise content management; the details of which are as follows:
+
+DESIGNATION: SR. DEVOPS ENGINEER
+
+LOCATION: Kakkanad, Cochin, Kerala
+
+EXPERIENCE: 4+ years
+
+QUALIFICATION : B.Tech / MCA
+
+NOTICE PERIOD: 30 days or below
+
+JOB DESCRIPTION:
+•    Building and deploying Infrastructures & Applications in AWS/ SoftLayer /Azure & On Premises.
+•    Responsible for using the right set of tools for achieving Continuous Integration, Continuous Monitoring and Continuous Improvement with high maturity model.
+•    Working on cutting-edge technology in a creative and entrepreneurial environment.
+•    Excellent communication skills to get your point across with Customers, Management & Technical audiences.
+•    Highly innovative in giving solutions to complex problems.
+ 
+TECHNICAL SKILLS REQUIRMENTS:
+•    Experience with Operating System such as RHEL, CentOS, Ubuntu, Solaris,   CoreOS, Apache Mesos, Fedora, Windows.
+•    Experience of Virtualization Tools such as Citrix Xen, VMWare, KVM, Virtual Box
+•    Experience of SCM such as GIT, SVN
+•    Experience in managing cloud infrastructure (AWS, SoftLayer, Azure, private       cloud).
+•    Experience of Web and App server administration such as Apache 2, Nginx, Apache Tomcat
+•    Experience of Infrastructure, Application and server monitoring such as APPD, Nagios/Sensu/Icinga.
+•    Experience of Storage such as AWS EBS, AWS S3, NFS, NAS,SAN (Highly desirable).
+•    Experience with Scripting languages such as Shell, Bash, Groovy, Python.
+•    Experience of the Continuous Integration platforms such as Jenkins /Bamboo/circleci.
+•    Experience in any of the Configuration Management tools such as Puppet/Ansible/Chef.
+•    Experience with Containers orchestration tools such as AWS ECS , Kubernetes/Docker/Docker-Compose.
+•    Experience in Authentication such as LDAP,SSO and Active Directory.
+•    Experience in Load Balancers such as HAP Proxy, AWS ELB and Ngin LB.
+•    User-level familiarity with modern build experience tools such as Maven/SBT/Grunt/Webpack.
+•    Strong understanding of system and networking concepts and troubleshooting techniques.
+•    Very comfortable with Linux & Network administration including load balancing,HA(Clustering) routing, firewalls, VPN.
+•    Knowledge of Repository Manager such as Docker Registry, YUM, Artifcatory.
+
+SALARY: Designed to attract the best talents in the industry.
+
+If you find the above suiting your skill sets and requirements, please forward to your CV to tenny@bloomshr.com, at your earliest convenience. THIS IS AN URGENT REQUIREMENT AND ONLY THOSE WHO CAN JOIN IN A MAXIMUM OF 30 DAYS NOTICE NEED APPLY. Should you have any further clarifications, do feel comfortable to us get back to us.
+
+Best regards,
+Tenny Devassy,
+Blooms HR Consulting,
+Town Hall Cross Road,
+Ernakulam, Kochi – 682 018
+tenny@bloomshr.com
+
+This is a mass mail and incase comes to you as an irrelevant mail, please excuse.
+
+Please forward this mail to your friends and acquaintance who may be interested in this offer, and if they land on a good job, they will surely know whom to thank.
+
+
+
+==============================================================================================================
